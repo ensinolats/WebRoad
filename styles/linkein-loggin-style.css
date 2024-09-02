@@ -47,6 +47,7 @@ article {
     font-size: 1.25vw;
     color: white;
     background-color:#0a66c2;
+    cursor: pointer;
 }
 #contraseña_olvidar {
     color: #0a66c2;
